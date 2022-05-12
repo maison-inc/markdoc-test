@@ -5,7 +5,7 @@ description: How to get started with Markdoc
 
 # Markdoc
 
-This website is a lightweight boilerplate to spin up a documentation website with Markdoc.
+This website is a lightweight boilerplate to spin up a documentation website with Markdoc...
 
 ## Quick start
 
